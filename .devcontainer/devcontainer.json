@@ -1,0 +1,9 @@
+{
+  "name": "1Works task",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"]
+    }
+  }
+}
